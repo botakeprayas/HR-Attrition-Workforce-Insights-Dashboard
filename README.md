@@ -17,5 +17,18 @@ Average Performance Rating
 Average Monthly Income
 
 Hiring Trend
+## Insight Questions 
+Which department has the highest attrition?
+
+Does low satisfaction correlate with employee turnover?
+
+Which locations have the happiest employees—remote or on-site?
+
+How does salary influence attrition?
+
+Which job roles need urgent hiring?
+## Dashboard
+
+
 ## Conclusion
 The dashboard reveals that attrition is higher in departments with lower satisfaction and lower compensation. Remote work shows slightly better satisfaction than on-site work. These insights help the company strengthen retention programs, optimize hiring, and improve employee engagement and performance.
